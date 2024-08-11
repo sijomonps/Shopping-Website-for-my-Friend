@@ -99,12 +99,13 @@
 
 
 
-    font-size: 30px;
+    font-size: 50px;
     text-shadow: 10px 10px 10px #000;
     height: 0px;
     font-family: "Satisfy", cursive;
     font-weight: 400;
     font-style: normal;
+    padding-bottom: 20px;
 }
 
 .banner-caption {
