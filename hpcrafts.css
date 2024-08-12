@@ -101,28 +101,26 @@
 .banner-heading {
     color: white;
 
-
-
-    font-size: 50px;
-    text-shadow: 10px 10px 10px #000;
-    height: 0px;
-    font-family: "Satisfy", cursive;
+    font-family: "Anton", sans-serif;
     font-weight: 400;
     font-style: normal;
+
+    font-size: 50px;
+    text-shadow: 2px 2px 10px #000;
+    height: 0px;
     padding-bottom: 20px;
 }
 
 .banner-caption {
-    color: #d6c36d;
-    font-size: 24px;
-    text-shadow: 10px 2px 4px #000;
+    color: #cfaa73;
+    font-size: 18px;
+    text-shadow: 1px 1px 1px  #000;
     height: 1px;
+    
 
-    font-family: "Teko", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal
-}
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
 .custom-button {
     color: white;
