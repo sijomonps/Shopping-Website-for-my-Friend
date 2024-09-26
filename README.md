@@ -3,8 +3,8 @@ Small Business Website:
    This is a responsive website created for a small business to showcase and sell products. 
    The website provides an easy way for customers to view product details and place orders via WhatsApp.
 
-   ![Screenshot 2024-09-14 152258](https://github.com/user-attachments/assets/a7bfa738-01f2-4f73-90b7-8da15ac831f5)
-   ![Screenshot 2024-09-14 152408](https://github.com/user-attachments/assets/2b1ecd55-24d5-48b7-a299-ba970f76afc6)
+   ![Screenshot 2024-09-14 152258](https://github.com/user-attachments/assets/a7bfa738-01f2-4f73-90b7-8da15ac831f5)  ![Screenshot 2024-09-14 152408](https://github.com/user-attachments/assets/2b1ecd55-24d5-48b7-a299-ba970f76afc6)
+  
    ![Screenshot 2024-09-14 152504](https://github.com/user-attachments/assets/f0b38d6b-d30d-4b49-82c6-3e7d1ec8b18c)
    ![Screenshot 2024-09-14 152435](https://github.com/user-attachments/assets/4b4b88d5-e6c7-49ed-a015-b5291e03083c)
 
